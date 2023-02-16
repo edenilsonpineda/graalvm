@@ -1,0 +1,15 @@
+{
+  "resources" : {
+    "includes" : [ {
+      "pattern" : "\\Qapplication.yaml\\E"
+    }, {
+      "pattern" : "\\Qlogging.properties\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/maven/com.helidonwsvc.examples/helidonwsvcn/pom.xml\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/maven/com.helidonwsvc.examples/helidonwsvcn/pom.properties\\E"
+    } ],
+    "excludes" : [ ]
+  },
+  "bundles" : [ ]
+}
